@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php 
+    echo "afisam un mesaj";
+    ?>
 </body>
 </html>
